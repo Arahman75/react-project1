@@ -1,0 +1,17 @@
+[{
+    "id": 1,
+    "name": "Rahman",
+    "salary": "10000",
+    "email": "bdivisek0@soup.io",
+    "gender": "Female",
+    "image": "https://randomuser.me/api/portraits/women/17.jpg"
+  }, {
+    "id": 2,
+    "name": "Rahim",
+    "salary": "20000",
+    "email": "cswatheridge1@unblog.fr",
+    "gender": "Female",
+    "image": "https://randomuser.me/api/portraits/women/35.jpg"
+  } 
+   
+  ]
